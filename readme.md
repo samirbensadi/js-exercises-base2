@@ -18,3 +18,6 @@ Dans le fichier HTML fourni, faire que le bouton RAZ efface les données des cha
 
 ##Exercice 5
 Dans le fichier HTML fourni, faire comme dans l'exercice 1 mais avec 5 images.
+
+##Exercice 6
+Dans le fichier HTML fourni, faire comme dans l'exercice 5 mais remettre l'image d'origine dès que la souris ne survol plus l'image.
