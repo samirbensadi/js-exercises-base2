@@ -5,4 +5,4 @@ Toutes les ressources aux exercices seront fourni quand cela sera nécessaire.
 Pour la sécurité de votre code, à chaque formulaire verifiez que ce qui est saisi correspond à ce qui est attendu.
 
 ##Exercice 1
-Changer l'image au survol de celle-ci.
+Changer l'image au survol de celle-ci par la deuxième.
