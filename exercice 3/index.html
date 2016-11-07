@@ -6,7 +6,16 @@
 </head>
 <body>
   <form>
-    <label for="nom">Votre nom  : </label><input type="text" name="nom" value="" id="nom" />
+    <label for="nom">Votre nom  : </label><input onkeyup="setTimeout(valeur, 0 ,this)" type="text" name="nom" value="" id="nom" />
   </form>
+
+  <script type="text/javascript">
+  	
+  function valeur(cible)
+  { 
+  	alert(cible.value);
+  }
+
+  </script>
 </body>
 </html>
