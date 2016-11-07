@@ -14,8 +14,8 @@ Dans le fichier HTML fourni, afficher une boite de dialogue avec le message : *"
 Dans le fichier HTML fourni, afficher une boite de dialogue avec la valeur du champ dès que l'on appuie sur le clavier.
 
 ##Exercice 4
-Dans le fichier HTML fourni, faire que le bouton RAZ efface les données des champs du formulaire.
-
+Dans le fichier HTML fourni, faire que le bouton RAZ efface les données des champs du formulaire.Attention! R
+etirer les "value" des "input"!
 ##Exercice 5
 Dans le fichier HTML fourni, faire comme dans l'exercice 1 mais avec 5 images.  
 **Bonus** Ne faire qu'une seule fonction JavaScript pour cet exercice.
